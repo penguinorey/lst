@@ -1,6 +1,8 @@
 
 ## Custom `ls` command 
 
+![custom ls](img.png)
+
 Uso:
 
 Compilar primero
